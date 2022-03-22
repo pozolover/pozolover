@@ -92,6 +92,7 @@ body{
     background-color: black;
     color: #fff;
     border: 40px solid rgb(255, 0, 0);
+    width: 80%;
 }
 
 .titulos__cuerpo{
